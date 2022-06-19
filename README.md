@@ -1,6 +1,7 @@
 ##### *Study web site~* 
 
 ```markdown
+<link href="/css/styles.css" rel="stylesheet" type="text/css" />
 <span style="color:blue">1 Day, 1 commit !</span>
 ```
 
