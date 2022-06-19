@@ -1,9 +1,7 @@
 ##### *Study web site~* 
 
 ```markdown
-<link rel="stylesheet" href="css/styles.css">
-<span style="background-color:yellow">노란 글씨</span>
-<span style="color:blue">1 Day, 1 commit !</span>
+1 Day, 1 commit!
 ```
 
 + big data 
