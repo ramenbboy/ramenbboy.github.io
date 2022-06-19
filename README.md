@@ -1,8 +1,11 @@
-##### Study web site~ 
+##### *Study web site~* 
 
-*1 day 1 commit !*
+```markdown
+<span style="color:blue">1 Day, 1 commit !</span>
+```
 
 + big data 
 + ramen love 
 + road bike 
-+ photo gallery (Photographer. Yi jae sok) * [More...](https://www.visualdreamer.com)
++ photo gallery (Photographer. Yi, jae sok) * [More...](https://www.visualdreamer.com)
+
